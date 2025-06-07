@@ -3,7 +3,7 @@ import WeatherContext from '../Context/WeatherContext';
 
 function WeatherInfo() {
 
-    const ApiKey="094f73629282ae3e8177343466091122";
+    const ApiKey=process.env.REACT_APP_API_KEY;
     const {unit,city,weatherData,setweatherData,forecastData,setforecastData,setcity} = useContext(WeatherContext);
     const [loader, setloader] = useState(false);
     const [error, seterror] = useState("");
@@ -104,7 +104,7 @@ function WeatherInfo() {
         {forecastData && (
 
           <>
-          <h2 >Future Forecast 🏞️</h2>
+          <h2 >Future Forecast 🌤️</h2>
                 <div className="container d-flex justify-content-center mx-3 mb-5 row">
                     
                     {
