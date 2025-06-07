@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/skytrack/static/css/main.77314b3f.css",
-    "main.js": "/skytrack/static/js/main.9754e3a6.js",
-    "static/js/453.c6808f04.chunk.js": "/skytrack/static/js/453.c6808f04.chunk.js",
-    "static/media/rainy.jpg": "/skytrack/static/media/rainy.d2a70e2c27fcefef0b60.jpg",
-    "static/media/cloudy.jpg": "/skytrack/static/media/cloudy.9ebf17045bf2dce6280f.jpg",
-    "static/media/sunny.jpg": "/skytrack/static/media/sunny.89744d39977b9e24d139.jpg",
-    "static/media/snowy.jpg": "/skytrack/static/media/snowy.e66795c4f070b039e680.jpg",
-    "index.html": "/skytrack/index.html",
-    "main.77314b3f.css.map": "/skytrack/static/css/main.77314b3f.css.map",
-    "main.9754e3a6.js.map": "/skytrack/static/js/main.9754e3a6.js.map",
-    "453.c6808f04.chunk.js.map": "/skytrack/static/js/453.c6808f04.chunk.js.map"
+    "main.css": "/Sky-Track/static/css/main.0110c30a.css",
+    "main.js": "/Sky-Track/static/js/main.cc7d7ab9.js",
+    "static/js/453.c6808f04.chunk.js": "/Sky-Track/static/js/453.c6808f04.chunk.js",
+    "static/media/rainy.jpg": "/Sky-Track/static/media/rainy.d2a70e2c27fcefef0b60.jpg",
+    "static/media/cloudy.jpg": "/Sky-Track/static/media/cloudy.9ebf17045bf2dce6280f.jpg",
+    "static/media/sunny.jpg": "/Sky-Track/static/media/sunny.89744d39977b9e24d139.jpg",
+    "static/media/snowy.jpg": "/Sky-Track/static/media/snowy.e66795c4f070b039e680.jpg",
+    "index.html": "/Sky-Track/index.html",
+    "main.0110c30a.css.map": "/Sky-Track/static/css/main.0110c30a.css.map",
+    "main.cc7d7ab9.js.map": "/Sky-Track/static/js/main.cc7d7ab9.js.map",
+    "453.c6808f04.chunk.js.map": "/Sky-Track/static/js/453.c6808f04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77314b3f.css",
-    "static/js/main.9754e3a6.js"
+    "static/css/main.0110c30a.css",
+    "static/js/main.cc7d7ab9.js"
   ]
 }
